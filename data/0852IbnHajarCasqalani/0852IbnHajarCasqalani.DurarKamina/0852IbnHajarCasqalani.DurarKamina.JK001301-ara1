@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_001301
-#NewRec# 000.BookURI	:: #0852.IbnHajarCasqalani.DurarKamina
-#NewRec# 010.AuthorAKA	:: ابن حجر العسقلاني
-#NewRec# 010.AuthorNAME	:: الحافظ شهاب الدين أبي الفضل أحمد بن علي بن محمد العسقلاني
-#NewRec# 011.AuthorBORN	:: 12/شعبان/773هـ
-#NewRec# 011.AuthorDIED	:: 852
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: الدرر الكامنة في أعيان المائة الثامنة
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: الطبقات والتراجم :: الطبقات والوفيات :: كتب التاريخ
-#NewRec# 022.BookVOLS	:: 6
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: الدرر الكامنة في أعيان المائة الثامنة
-#NewRec# 030.LibURI	:: JK_001301
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: مراقبة / محمد عبد المعيد ضان
-#NewRec# 041.EdNUMBER	:: الثانية
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: مجلس دائرة المعارف العثمانية
-#NewRec# 044.EdPLACE	:: صيدر اباد/ الهند
-#NewRec# 045.EdYEAR	:: 1392هـ/ 1972م
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_001301
+#META# 000.BookURI	:: #0852.IbnHajarCasqalani.DurarKamina
+#META# 010.AuthorAKA	:: ابن حجر العسقلاني
+#META# 010.AuthorNAME	:: الحافظ شهاب الدين أبي الفضل أحمد بن علي بن محمد العسقلاني
+#META# 011.AuthorBORN	:: 12/شعبان/773هـ
+#META# 011.AuthorDIED	:: 852
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: الدرر الكامنة في أعيان المائة الثامنة
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: الطبقات والتراجم :: الطبقات والوفيات :: كتب التاريخ
+#META# 022.BookVOLS	:: 6
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: الدرر الكامنة في أعيان المائة الثامنة
+#META# 030.LibURI	:: JK_001301
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: مراقبة / محمد عبد المعيد ضان
+#META# 041.EdNUMBER	:: الثانية
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: مجلس دائرة المعارف العثمانية
+#META# 044.EdPLACE	:: صيدر اباد/ الهند
+#META# 045.EdYEAR	:: 1392هـ/ 1972م
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 

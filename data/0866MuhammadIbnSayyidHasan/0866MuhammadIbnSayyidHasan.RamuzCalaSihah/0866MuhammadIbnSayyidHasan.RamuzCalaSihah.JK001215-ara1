@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_001215
-#NewRec# 000.BookURI	:: NOCODE
-#NewRec# 010.AuthorAKA	:: محمد بن السيد حسن
-#NewRec# 010.AuthorNAME	:: محمد بن السيد حسن
-#NewRec# 011.AuthorBORN	:: NOTGIVEN
-#NewRec# 011.AuthorDIED	:: 866
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: الراموز على الصحاح
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: كتب المعاجم والغريب والمصطلحات :: مسائل في الغريب والمعاني
-#NewRec# 022.BookVOLS	:: 1
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: الراموز على الصحاح
-#NewRec# 030.LibURI	:: JK_001215
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: د محمد علي عبد الكريم الرديني
-#NewRec# 041.EdNUMBER	:: الثانية
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: دار أسامة
-#NewRec# 044.EdPLACE	:: دمشق
-#NewRec# 045.EdYEAR	:: 1986
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_001215
+#META# 000.BookURI	:: NOCODE
+#META# 010.AuthorAKA	:: محمد بن السيد حسن
+#META# 010.AuthorNAME	:: محمد بن السيد حسن
+#META# 011.AuthorBORN	:: NOTGIVEN
+#META# 011.AuthorDIED	:: 866
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: الراموز على الصحاح
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: كتب المعاجم والغريب والمصطلحات :: مسائل في الغريب والمعاني
+#META# 022.BookVOLS	:: 1
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: الراموز على الصحاح
+#META# 030.LibURI	:: JK_001215
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: د محمد علي عبد الكريم الرديني
+#META# 041.EdNUMBER	:: الثانية
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: دار أسامة
+#META# 044.EdPLACE	:: دمشق
+#META# 045.EdYEAR	:: 1986
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
