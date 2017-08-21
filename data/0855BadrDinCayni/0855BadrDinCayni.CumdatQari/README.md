@@ -17,15 +17,17 @@ there is somtimes numbers for headlines which are differently between the pdf an
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
 -It happens that there are paragraphs which appear 2 times in a row for example
-V11P66 or V14P245 )about 20 instances in the first 5 Volumes
-
+V11P66 or V14P245 )
+- several spellig mistackes
+for instance:
 - ياي بدل بابV5P63
+- strange numbering, numbers are turned around, but also dont always follow this logic. 
 
 ## 4. Add any comments on the text
 
-the numbers of the chapters often do not fit well, or the logic changes, in simple cases I fixed it, sometimes it would have been too much work.
 
-finished until volume 7
+
+finished until volume 16
 
 
 ## 5. ...
