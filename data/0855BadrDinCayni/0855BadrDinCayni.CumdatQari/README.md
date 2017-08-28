@@ -11,8 +11,6 @@ All were quite similar to me. pagination, structure, length, so I just chose sha
 
 http://waqfeya.com/book.php?bid=7041
 pagination is the same 
-there is somtimes numbers for headlines which are differently between the pdf and the text.
-
 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
@@ -22,12 +20,16 @@ V11P66 or V14P245 )
 for instance:
 - ياي بدل بابV5P63
 - strange numbering, numbers are turned around, but also dont always follow this logic. 
+- sometimes paragraphes are missing e.g. V18 page 13, V23 P223, V23P285
 
 ## 4. Add any comments on the text
 
-
-
-finished until volume 16
+Finally this text was quite messy. Now it's good overall, still the quality of the result was hard to estimate, as the numbering of the entries is very messy. Some paragraphes are doubled some are missing. The structure I implemented is
+### = for every new volume
+### | for kitaab or suura
+### || mainly for baab
+### $ for what I supose where bibligrafical entries all introduced by hadthanaa...
+There are some headlines intruduced by qaala. If they seem realevant, there should be some more work done to find and systamize them. I wasn't sure in how far they were relevant. 
 
 
 ## 5. ...
