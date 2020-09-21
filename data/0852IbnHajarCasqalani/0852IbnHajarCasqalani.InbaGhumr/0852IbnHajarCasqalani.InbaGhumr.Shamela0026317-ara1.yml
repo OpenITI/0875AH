@@ -5,9 +5,6 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1049183702
 80#VERS#LINKS####: https://archive.org/details/InbaAlghumur
 90#VERS#ANNOTATOR: SP Loynes
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#VERS#COMMENT##: I had to manually add all of the biographical entries, and I have also numbered them consistent w/ the printed edition (this also helped ensure none were missed when tagging). Pages occasionally out by a couple of lines. Texts varies occasionnaly from printed edition w/ words ommited or added by scribe and/or small scribal errors (e.g., fi rajab vs. fi shahr rajab, hassan vs. al-husayn). Volume numbers are in wrong places (now marked as editorial). Occasionally the order of the biographical entries is not entirely consistent w/ the printed edition: in the case of additional entries, I have tagged but not included any numbering. The odd entry is missing (e.g., no. 40, 45 pg, 271). Part of bio 5 missing on pg. 292, missing bio 36, pg 300. 14 is missing from pg. 324.
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: formalized issues, separated with commas
