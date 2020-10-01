@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 18961823
 00#VERS#LENGTH###: 4647745
-00#VERS#URI######: 0855BadrDinCayni.CumdatQari.Shamela0005756-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+00#VERS#URI######: 0855BadrDinCayni.CumdatQari.Shamela0005756-ara1.completed
+80#VERS#BASED####: http://www.worldcat.org/oclc/1103863835
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1103863835
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=7041
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: This is a commentary on Sahih al-Bukhari. The file was an 'in progress' file and, thankfully (!), the 27 volumes were mostly annotated. The work is divided into a series of comments on individual hadiths; each hadith is labelled by the basic ### $ label. The hadiths are numbered consecutively on the printed edition from vol. 2 onwards (w/ the numbering beginning again in each 'book'). The numbering on the digital edition is not consistent. Similarly, each main chapter (kitab) and sub-chapter (bab) were also numbered in the digital edition but not consistently. Items were checked on a random basis to confirm alignment w/ the text. The text appears to closely conform to the printed edition despite erroneous numbering. Occasionally, subsections were tagged incorrectly. At the beginning of a number of sections the letter ha' has been disconnected from the verb hadathna; perhaps this can automatically be corrected w/ a Regex (there are variations in the parameters).
+90#VERS#DATE#####: 2020-10-01
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS
