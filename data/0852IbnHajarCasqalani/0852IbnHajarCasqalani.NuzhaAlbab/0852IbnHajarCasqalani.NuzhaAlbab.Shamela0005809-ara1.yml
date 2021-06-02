@@ -8,5 +8,6 @@
 90#VERS#COMMENT##: Correspondence appears fine - biographical entries
     line up w/ printed edition, although only random entries checked. Text
     appears consistent.
+   NOTE OF THE REVIEWER (HRH): A few blank headers added to show the change of alphabetical order of names. PARATEXT added. The number of name tags checked and corrected through Peter’s script. Numbers 3051-3055 that were duplicate removed.
 90#VERS#DATE#####: 2020-09-18
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS
