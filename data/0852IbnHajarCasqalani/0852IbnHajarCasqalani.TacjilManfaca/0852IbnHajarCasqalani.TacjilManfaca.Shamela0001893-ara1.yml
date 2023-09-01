@@ -6,9 +6,12 @@
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=3665
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: From biographical entry no. 849 (vII, p.111) the
-    numbers diverge from the printed edition, although as far as I can see
-    by comparing various random selections, all biographical entries are
-    present only with incorrect numbering from this point onwards.
-   NOTE OF THE REVIEWER (HRH): A few blank headers inserted to show the change of name categories.
+        numbers diverge from the printed edition, although as far as I can see
+        by comparing various random selections, all biographical entries are
+        present only with incorrect numbering from this point onwards.
+       NOTE OF THE REVIEWER (HRH): A few blank headers inserted to show the change of name categories.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-09-30
-90#VERS#ISSUES###: PAGINATION, HTML_TAGS
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

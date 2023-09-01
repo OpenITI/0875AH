@@ -6,7 +6,10 @@
 80#VERS#LINKS####: NOT_FOUND
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: PV converted the text from the original Meshkat BOK file,
-    tagged the sura and aya headings and removed editorial material
-    (without access to the original edition).
+        tagged the sura and aya headings and removed editorial material
+        (without access to the original edition).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2022/07/26
-90#VERS#ISSUES###: NO_PDF_FOUND
+90#VERS#ISSUES###: NO_PDF_FOUND, PRIMARY_VERSION, CLEANED_VERSION

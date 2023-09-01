@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://www.noor-book.com/en/ebook-تاريخ-مكه-المشرفه-والمسجد-الحرام-والمدينه-الشريفه-ابي-البقاء-محمد-بن-احمد-ابن-الضياء-المكي-الحنفي-pdf
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Page numbers are out by +2. Good correspondence w/
-    printed edition.
+        printed edition.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-09-30
-90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS
+90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

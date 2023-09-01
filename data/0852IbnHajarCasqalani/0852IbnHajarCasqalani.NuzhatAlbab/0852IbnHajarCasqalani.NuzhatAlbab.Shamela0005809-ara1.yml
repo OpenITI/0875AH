@@ -6,10 +6,13 @@
 80#VERS#LINKS####: https://archive.org/details/nozhatalbab
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Correspondence appears fine - biographical entries
-    line up w/ printed edition, although only random entries checked. Text
-    appears consistent.
-    NOTE OF THE REVIEWER (HRH): A few blank headers added to show the change of
-    alphabetical order of names. PARATEXT added. The number of name tags checked and
-    corrected through Peter’s script. Numbers 3051-3055 that were duplicate removed.
+        line up w/ printed edition, although only random entries checked. Text
+        appears consistent.
+        NOTE OF THE REVIEWER (HRH): A few blank headers added to show the change of
+        alphabetical order of names. PARATEXT added. The number of name tags checked and
+        corrected through Peter’s script. Numbers 3051-3055 that were duplicate removed.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-09-18
-90#VERS#ISSUES###: PAGINATION, HTML_TAGS
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION
