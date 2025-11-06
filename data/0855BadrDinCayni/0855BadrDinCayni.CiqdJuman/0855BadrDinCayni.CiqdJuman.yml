@@ -8,13 +8,14 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
 90#BOOK#COMMENT##: This book has a very complicated history,
-    and a full edition has not yet been produced. 
+    and a full edition has not yet been produced.
     Currently existing partial editions:
     * years 431-520: ed. Shayea Abd al-Hadi al-Hajeri, A Critical Edition of the Eleventh Volume of ʿIqd al-jumān, unpublished PhD thesis, University of Edinburgh 2007 (https://era.ed.ac.uk/handle/1842/7525).
     * years 565-628: ed. Maḥmūd Rizq Maḥmūd, Cairo 2002–13.
@@ -23,9 +24,9 @@
     * years 815-850: ed. Qarmūṭ, Cairo 1985-1989 (in OpenITI as MMS00021-ara2)
     According to Nobutaka Nakamachi, Shukrī's edition is a conflation of the ʿIqd al-Jumān with al-ʿAynī's Tārīkh al-badr;
     the editions of al-Hajeri, Maḥmūd, Amīn and Qarmūṭ are all reliable editions of parts of the ʿIqd al-Jumān.
-    See Nobutaka Nakamachi, "A Historiographical Analysis 
+    See Nobutaka Nakamachi, "A Historiographical Analysis
     of the Four Chronicles Attributed to Badr al-Dīn al-ʿAynī", in
-    Stephan Conerman and Toru Miura eds., 
+    Stephan Conerman and Toru Miura eds.,
     Studies on the History and Culture of the Mamluk Sultanate (1250-1517),
     Göttingen 2021: 113-138 (esp. pp. 116-117, 125).
     The Hajeri, Amīn and Qarmūṭ editions have been merged together in OpenITI
